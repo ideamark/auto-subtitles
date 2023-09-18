@@ -7,8 +7,7 @@ Subtitle generator 是一款自动电影字幕生成工具。
 ## 安装
 
 * 下载安装 [ffmpeg](https://ffmpeg.org/download.html)
-* 安装 `pytorch`
-* 安装剩余模块：`pip install -r requirements.txt`
+* 安装Python模块：`pip install -r requirements.txt`
 
 ## 使用
 

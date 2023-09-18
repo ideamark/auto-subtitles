@@ -7,8 +7,7 @@ Subtitle generator is a tool for auto generating movie subtitles.
 ## Installation
 
 * Download and install [ffmpeg](https://ffmpeg.org/download.html)
-* Install `pytorch`
-* Install residual modules: `pip install -r requirements.txt`
+* Install python modules: `pip install -r requirements.txt`
 
 ## Usage
 

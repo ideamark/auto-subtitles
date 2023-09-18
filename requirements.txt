@@ -1,2 +1,5 @@
 moviepy
+torch
+torchvision
+torchaudio
 openai-whisper
