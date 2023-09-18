@@ -1,8 +1,8 @@
-# Subtitle Generator
+# auto-subtitles
 
 ## 综述
 
-Subtitle generator 是一款自动电影字幕生成工具。
+auto-subtitles 是一款电影字幕自动生成工具。
 
 ## 安装
 

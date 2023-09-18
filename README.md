@@ -1,8 +1,8 @@
-# Subtitle Generator
+# auto-subtitles
 
 ## Summary
 
-Subtitle generator is a tool for auto generating movie subtitles.
+auto-subtitles is a tool for automatically generating movie subtitles.
 
 ## Installation
 
